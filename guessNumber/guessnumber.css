@@ -1,0 +1,11 @@
+body{ background: gray;
+    font-style: normal
+}
+
+h3{ color: whitesmoke}
+
+div{ font-size: 30px;
+    color: whitesmoke
+}
+
+.err{ color: red}
